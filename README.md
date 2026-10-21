@@ -1,20 +1,49 @@
-<h1 align="center">Hi 👋, I'm Daniel Zapata</h1>
-<h3 align="center">I'm a technology and programming enthusiast. I love to share knowledge with others and help others when they need it. I firmly believe that teamwork combined with constant learning is the formula to success. I am a Full Stack programmer with knowledge in several technologies. If you want to talk to me, don't hesitate to contact me, it will be a pleasure to have a chat.</h3>
+<h1 align="center">Hi, I'm Daniel Zapata 👋</h1>
 
-- 👨‍💻 All of my projects are available at [https://github.com/danizagra](https://github.com/danizagra)
-
-- 📫 How to reach me **daniel.zapata.grajales@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/daniel-zapata-dev/](https://www.linkedin.com/in/daniel-zapata-dev/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/daniel-zapata-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-zapata-dev/" height="30" width="40" /></a>
-<a href="https://instagram.com/danizagra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_zapata" height="30" width="40" /></a>
+<p align="center">
+  <b>Full Stack Software Engineer · AI Engineer</b><br/>
+  Building production-grade web apps and LLM-powered systems
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-zapata-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:daniel.zapata.grajales@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danizagra&" alt="danizagra" /></p>
+## About me
 
+Full Stack Engineer with 5+ years building scalable web applications, now focused on AI Engineering: RAG pipelines, AI agents and cloud ML infrastructure.
+
+- 🔭 Software Engineer at **Wizeline**, working on high-traffic platforms for one of the largest news organizations in the U.S.
+- 🤖 Independent AI Engineer delivering RAG pipelines, agentic workflows and ML solutions on AWS Bedrock and SageMaker
+- 🚀 Built an AI-powered investment platform from scratch: RAG over financial documents, data ingestion pipelines and a Next.js component library
+- 🎓 Master's in Artificial Intelligence at International University of Valencia
+
+## Tech stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux" alt="Frontend stack"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,postgres,mysql" alt="Backend stack"/>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions" alt="Cloud stack"/>
+
+**AI & ML**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat-square)
+![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat-square)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=danizagra&hide_border=true" alt="GitHub streak"/>
+</p>
